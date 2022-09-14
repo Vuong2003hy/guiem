@@ -1,5 +1,5 @@
 const CONFIG = {
-    introTitle: 'Ánh cute!',
+    introTitle: 'Hà Anh đáng yêu!',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
@@ -11,9 +11,9 @@ const CONFIG = {
     btnNo: 'Không',
     question:'Trên thế giới hơn 7 tỉ người nhưng mà nụ cười của em là đẹp nhất, thế nên là, hãy để anh giữ nụ cười của em trên môi <3',
     btnReply: 'Gửi cho anh <3',
-    reply: ' i like u <3',
-    mess: 'i know 😘😘',
-    messDesc: 'hehe',
-    btnAccept: 'hehe',
-    messLink: 'http://fb.com/Vuong0903two' 
+    reply: ' Em yêu anh nhiều <3',
+    mess: 'Anh biết mà 😘😘',
+    messDesc: 'Em đi chơi với anh nhé',
+    btnAccept: 'Iuu',
+    messLink: 'https://www.facebook.com/profile.php?id=100039829300141' 
 }
